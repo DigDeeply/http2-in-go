@@ -6,3 +6,4 @@
 - [HTTP/2 in GO(一)](https://fukun.org/post/20180811-http2_in_go_1.html)
 - [HTTP/2 in GO(二)](https://fukun.org/post/20180812-http2_in_go_2.html)
 - [HTTP/2 in GO(三)](https://fukun.org/post/20180819-http2_in_go_3.html)
+- [HTTP/2 in GO(四)](https://fukun.org/post/20180820-http2_in_go_4.html)
